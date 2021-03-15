@@ -1,6 +1,7 @@
+import re
+
 from django.core import mail
 from selenium.webdriver.common.keys import Keys
-import re
 
 from .base import FunctionalTest
 
